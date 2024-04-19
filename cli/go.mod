@@ -39,14 +39,14 @@ require (
 	github.com/stretchr/testify v1.8.2
 	github.com/yookoala/realpath v1.0.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.13.0
-	google.golang.org/grpc v1.46.2
-	google.golang.org/protobuf v1.28.0
+	golang.org/x/sys v0.18.0
+	google.golang.org/grpc v1.56.3
+	google.golang.org/protobuf v1.30.0
 	gotest.tools/v3 v3.3.0
 )
 
 require (
-	github.com/google/go-cmp v0.5.8 // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/tinylib/msgp v1.1.8 // indirect
 	zenhack.net/go/util v0.0.0-20230414204917-531d38494cf5 // indirect
 )
@@ -57,7 +57,7 @@ require (
 	github.com/Masterminds/sprig/v3 v3.2.1 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/huandu/xstrings v1.3.2 // indirect
@@ -75,11 +75,11 @@ require (
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
-	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/term v0.13.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
-	google.golang.org/genproto v0.0.0-20220519153652-3a47de7e79bd // indirect
+	golang.org/x/crypto v0.21.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/term v0.18.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
