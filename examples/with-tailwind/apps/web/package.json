@@ -10,7 +10,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "next": "^14.0.3",
+    "next": "^14.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "@repo/ui": "workspace:*"
@@ -22,7 +22,7 @@
     "@types/react-dom": "^18.2.17",
     "autoprefixer": "^10.4.16",
     "@repo/eslint-config": "workspace:*",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.38",
     "@repo/tailwind-config": "workspace:*",
     "tailwindcss": "^3.3.5",
     "@repo/typescript-config": "workspace:*",
